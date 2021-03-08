@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UsernameScraper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="minblocks" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="botlogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">marciosil@gmail.com</Value>
+    </Setting>
+    <Setting Name="botpass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#c9uz=um???xr0x</Value>
+    </Setting>
+    <Setting Name="save" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="emptyIgnore" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
